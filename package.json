@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Tom Monks",
+  "description": "freeCodeCamp npm exercises",
   "dependencies": {
     "express": "^4.14.0"
   },
